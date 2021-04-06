@@ -4,6 +4,7 @@
    <h1>walki talki </h1>
    <h2>real time chat</h2>
     </header>
+  <router-view></router-view>
   </div>
 </template>
 
